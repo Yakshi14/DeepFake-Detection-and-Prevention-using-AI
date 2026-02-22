@@ -1,6 +1,6 @@
 # Fake News Classification: AI Agent & Browser Extension
 
-![Project Header]()
+![Project Header]("Yakshi's Portfolio\FakeNews.png")
 
 ## 🚀 Project Overview
 This project is an **LLM-powered NLP application** designed to identify false or misleading content in real-time. By combining machine learning models with a seamless browser extension, users can verify the integrity of news articles, social media posts, and media files directly from their web browser.
